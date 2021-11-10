@@ -10,4 +10,4 @@ Fiz 5 projetos sendo eles:
 
 - Blog Post ( Fiz a estrutura de um blog com imagens e citações usei também códicos semânticos para um melhor desenvolvimento no browser).
 
-- Quiz (Elaborei 5 questões de múltipla escolha onde o usuário deve marcar a questão correta). 
+- Quiz (Elaborei 5 questões de múltipla escolha onde o usuário deve marcar a opção correta). 
