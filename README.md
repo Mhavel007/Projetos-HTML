@@ -1,6 +1,6 @@
 Essa é uma série de projetos básicos para praticar meus conhecimentos em HTML.
 
-Fiz 4 projetos sendo eles:
+Fiz 5 projetos sendo eles:
 
 - Glossário (Onde botei pequenas explicações da estrutura do HTML).
 
@@ -9,3 +9,5 @@ Fiz 4 projetos sendo eles:
 - Lista de Compras (Pode ser adaptado para alguma empresa de Supermercado).
 
 - Blog Post ( Fiz a estrutura de um blog com imagens e citações usei também códicos semânticos para um melhor desenvolvimento no browser).
+
+- Quiz (Elaborei 5 questões de múltipla escolha onde o usuário deve marcar a questão correta). 
